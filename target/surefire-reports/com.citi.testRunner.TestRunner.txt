@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.citi.testRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 94.117 s - in com.citi.testRunner.TestRunner
